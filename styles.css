@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Outfit', sans-serif;
 }
 
 body{
@@ -33,7 +34,7 @@ body{
 .main p{
     font-size: 0.875rem;
     font-weight: 1;
-    width: 30ch;
+    width: 25ch;
     color: lightslategray;
 }
 #nft {
