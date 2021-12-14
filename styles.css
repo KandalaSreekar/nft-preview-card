@@ -23,9 +23,9 @@ body{
 }
 .image {
     border-radius: 6px;
-    background-color: cyan;
     width: 15.625rem;
     height: 15.625rem;
+    background: cyan url(images/icon-view.svg) no-repeat center;
 }
 .main h1{
     font-size: 18px;
